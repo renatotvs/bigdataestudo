@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/42357180/134785688-433a9745-90e1-4270-a89b-8ab8ad5acc15.png)
 
-Database Connection URL: jdbc:sqlserver
+Database Connection URL: jdbc:sqlserver://Server:1433;databaseName=Database
 
 driver para download: https://download.microsoft.com/download/3/F/7/3F74A9B9-C5F0-43EA-A721-07DA590FD186/sqljdbc_6.2.2.0_enu.tar.gz
 
